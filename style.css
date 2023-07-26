@@ -1,4 +1,4 @@
-root {
+:root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167bf7; 
@@ -30,3 +30,4 @@ body{
     padding: 1em;
     color: var(--branco-principal);
     display: block;
+}
